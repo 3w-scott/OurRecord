@@ -2,12 +2,15 @@
 + GitHub的好处在于可以无限回溯和复盘，是很好的记录工具。但是在移动端的*同步*和*隐私性*上可能存在问题。GitHub的学习我参考了https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000；这个人同时也写了不错的Python教程。
 + 我觉得整个文档系统都可以考虑利用**Markdown**https://github.com/younghz/Markdown ，显示效果比较美观；有一个在线的Markdown编译器我放在浏览器的收藏栏了。
 + 我们可以商定一下记录的内容、排版。
+
 # 2018–7-9 22:54:58
 + 今天早上被蚊子和空调干扰睡眠质量比较差，状态差。但是上午完成了一个quartz的demo，官方代码里存在一些配置问题，最后看博客运行通过；
 + 下午具体研究了demo代码和协同工作的工具。
 + 晚上dinner with zhou and later phone with He. 
 > Hey this sentence is written for you, my girl! I will fight. Wait for me in Guangzhou.
-# 2018-7-10 PM 11:12:xx     --7（4个任务完成2个，而且有拖延，后期继续观察LINE17的效果）
+
+# 2018-7-10 PM 11:12:xx     
+                           --7（4个任务完成2个，而且有拖延，后期继续观察LINE17的效果）
 + 早上醒得挺早，不过起床时间就是另一回事儿了…黄粱大梦还是挺爽的。
 + 早上睡懒觉做梦会导致上午困倦、效率低下和拖延，搬工位大概半个小时能搞定但是实际时间长了一倍。
 + 花了很多时间研究GitHub和Markdown（从简单任务做起）以及浏览器的整理。
